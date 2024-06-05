@@ -21,3 +21,5 @@ Exploring the Impact of Cell Growth and Division on Pattern Formation: A Study B
 multicell_growth，multicell_growing，check_params主要代码基本上都差不多，check_params多了一些可视化的代码
 
 - HFFT文件夹下的代码是傅里叶变换相关的
+
+- basin_PCA文件夹下代码用于多细胞生长蒙特卡洛模拟的结果可视化
